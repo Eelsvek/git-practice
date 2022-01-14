@@ -1,1 +1,3 @@
-function playWithGit() {}
+function playWithGit() {
+  const featureA = 'a';
+}
